@@ -19,6 +19,7 @@ const changeHandler=(e)=>{
 
 return (
     <div className="App">
+      <h1>Hello World</h1>
       <form onSubmit={submitHandler}>
       <label for="text">Write your code</label>
       <br />
